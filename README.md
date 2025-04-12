@@ -1,2 +1,1 @@
-# LQCDprelude
-Initial tasks on Lattice QCD
+# Lattice QCD - Prelude
